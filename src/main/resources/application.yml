@@ -1,0 +1,5 @@
+server:
+  port: 8081
+
+# ???OpenAI api
+key: "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"
