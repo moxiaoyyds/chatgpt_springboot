@@ -23,6 +23,28 @@
             <artifactId>client</artifactId>
             <version>0.9.0</version>
         </dependency>
+
+        <!-- https://mvnrepository.com/artifact/org.dom4j/dom4j -->
+        <dependency>
+            <groupId>org.dom4j</groupId>
+            <artifactId>dom4j</artifactId>
+            <version>2.1.4</version>
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/xstream/xstream -->
+<!--        <dependency>-->
+<!--            <groupId>xstream</groupId>-->
+<!--            <artifactId>xstream</artifactId>-->
+<!--            <version>1.2.2</version>-->
+<!--        </dependency>-->
+        <!-- https://mvnrepository.com/artifact/com.thoughtworks.xstream/xstream -->
+        <dependency>
+            <groupId>com.thoughtworks.xstream</groupId>
+            <artifactId>xstream</artifactId>
+            <version>1.4.20</version>
+        </dependency>
+
+
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>

@@ -36,6 +36,6 @@ public class ChatGptServiceImpl implements ChatGptService {
                 .echo(true)
                 .build();
         List<CompletionChoice> choiceList = openAiService.createCompletion(completionRequest).getChoices();
-        return choiceList.get(0).getText().substring(question.length() + 2);
+        return choiceList.get(0).getText().substring(question.length()).trim();
     }
 }
