@@ -14,3 +14,6 @@
 创建一个key并复制
 ![image](https://user-images.githubusercontent.com/87122321/218243427-3aade624-7bfa-4045-8cc8-ead5cea59bf5.png)
 ![image](https://user-images.githubusercontent.com/87122321/218243508-8f7aa0a0-6012-4990-996c-660f03e4ce67.png)
+
+打开项目中的application,将key替换进去
+![image](https://user-images.githubusercontent.com/87122321/218243751-9b26ef2f-7c74-4db4-bc91-bcb754925999.png)
