@@ -2,7 +2,7 @@ server:
   port: 8081
 
 # 注册OpenAI后生成的 api
-key: "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"
+key: "需要替换的key"
 
 # 微信设置的token
-token: "abc"
+token: "需要替换的token"
