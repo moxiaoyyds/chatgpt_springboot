@@ -20,8 +20,10 @@
 
 第三步：
 打开https://mp.weixin.qq.com/debug/cgi-bin/sandboxinfo?action=showinfo&t=sandbox/index注册微信测试公众号并登陆
+
 设置一个自己需要的key
 ![image](https://user-images.githubusercontent.com/87122321/218641625-5b5ccd1f-cbe7-4563-a1e4-b95fa28fb91a.png)
+
 填入application.yml
 ![image](https://user-images.githubusercontent.com/87122321/218641937-c1f2b2c2-984e-467f-bad2-7607ebde9b9b.png)
 
@@ -31,6 +33,10 @@
 
 在微信公众平台url中填入接口信息，马赛克的地方为你的ip地址和端口
 ![image](https://user-images.githubusercontent.com/87122321/218642252-f3ff5315-1c7d-439f-a8e2-6b0ab8048a3d.png)
+
 点击提交
 ![image](https://user-images.githubusercontent.com/87122321/218642493-9a1845d9-3413-4b14-abf0-45736a07ae78.png)
+
 出现配置成功便成功了
+就可以正常使用微信公众号发消息测试了。
+目前仅支持文本消息
